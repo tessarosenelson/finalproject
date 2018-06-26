@@ -1,0 +1,86 @@
+body{
+    background-color: #DCDCDC;
+    margin: 0 auto;
+}
+/*NAV BAR SECTION*/
+.nav-bar{
+  background: #fff;
+  height: 100px;
+  position: absolute;
+  width: 100%;
+  right: 0px;
+  top: 0px;
+}
+.nav-items{
+ float: right;
+ margin-top: 10px;
+ margin-right: 15px;
+ left: 10px;
+}
+.list-item{
+  list-style-type: none;
+  display: inline-block;
+  margin-right: 15px;
+  color: black;
+  width: 100px;
+  font-size: 30px;
+}
+#logo{
+    width: 140px;
+    height: 100px;
+}
+/*-----------VIDEOS-------------*/
+
+.vid-container{
+  width: 100%;
+  height: 700px;
+  margin-top: 100px;
+}
+.column{
+  width: 30%;
+  display: inline-block;
+  text-align: center;
+  margin: 10px;
+  margin-top: 15px;
+}
+.vimeo-button{
+  background: red;
+  width: 200px;
+  height: 75px;
+  font-size: 30px;
+  border-radius: 15px;
+  margin-left: 41%;
+  margin-top: 75px;
+}
+.vimeo-para{
+  
+}
+/*-------------FOOTER-----------*/
+.footer{
+  width: 100%;
+  height: 200px;
+  background: #fff;
+  clear: both;
+}
+.foot-column{
+  width: 20%;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+}
+.insta{
+  color: red;
+  margin-left: 145px;
+  margin-top: 20px;
+}
+.twitter{
+  color: red;
+  margin-left: 145px;
+  margin-top: 20px;
+}
+
+#copyright{
+  margin-left: 145px;
+  margin-top: 100px;
+  color: #000000;
+}
